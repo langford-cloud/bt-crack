@@ -12,4 +12,6 @@ git clone https://github.com/langford-cloud/bt-crack
 
 cd bt-crack
 
-bash bt-crack.sh
+sudo chmod 777 bt-crack.sh
+
+sudo bash bt-crack.sh
