@@ -9,5 +9,7 @@
 执行以下代码
 
 git clone https://github.com/langford-cloud/bt-crack
+
 cd bt-crack
+
 bash bt-crack.sh
