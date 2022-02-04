@@ -3,7 +3,7 @@
 #先升级最新版
 #先安装最新正版宝塔
 #0
-curl http://download.bt.cn/install/update6.sh|bash
+#curl http://download.bt.cn/install/update6.sh|bash
 #0
 #开始运行破解程序
 #1
