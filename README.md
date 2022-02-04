@@ -7,4 +7,7 @@
 使用教程
 必须已经安装好任意版本的宝塔面板
 执行以下代码
-  sssss
+
+git clone https://github.com/langford-cloud/bt-crack
+cd bt-crack
+bash bt-crack.sh
